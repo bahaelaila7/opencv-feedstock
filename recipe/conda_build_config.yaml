@@ -1,0 +1,4 @@
+channel_sources:
+  - bahaelaila7,conda-forge,anaconda,defaults
+channel_targets:
+  - bahaelaila7
